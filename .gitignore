@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.vscode/
+*.npy
+
+# Large datasets
+*.csv
+
+# Logs
+logs.json
+
+# Trained models (if large)
+*.pkl
+*.h5
